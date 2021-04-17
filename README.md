@@ -1,2 +1,4 @@
-![Screenshot 2021-04-17 230102](https://user-images.githubusercontent.com/82416378/115127747-d6c23d80-9fd0-11eb-914b-efff2f2c1fe7.png)
 # HR-Analytics
+
+![Screenshot 2021-04-17 230245](https://user-images.githubusercontent.com/82416378/115127772-11c47100-9fd1-11eb-9d8c-a7f2b2027443.png)
+
